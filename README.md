@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathias Prince Lawson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingucell&label=Profile%20views&color=0e75b6&style=flat" alt="ingucell" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/567523990538356835/">
+<img align="right" alt="Coding" width="400" src="[https://www.pinterest.com/pin/567523990538356835/](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)">
 
 - 🌱 I’m currently learning **NodeJs, ExpressJS, Solidity**
 
