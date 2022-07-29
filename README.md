@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ingucell&show_icons=true&locale=en" alt="ingucell" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ingucell&" alt="ingucell" /></p>
+<p style="background-color:black"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ingucell&" alt="ingucell" /></p>
